@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Program Files (x86)\InstallShield\2016\Support\0409\buildreport.xsl"?>
+<BuildReport ProductName="My Project Name-5" ProductVersion="1.00.0000" Built="9-5-2017 10-57-30 AM" Config="Product Configuration 1" Media="Release 1" Uncompressed="0.00 MB">
+  <Features>
+    <Feature Title="##ID_STRING1##">NewFeature1</Feature>
+  </Features>
+  <Components>
+    <Component x64="32">NewComponent1</Component>
+    <Component x64="32">WebsiteComponent</Component>
+  </Components>
+  <Prerequisites />
+  <MergeModules />
+  <DynamicLinks />
+  <Files />
+</BuildReport>
